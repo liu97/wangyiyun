@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
 	<transition name="isshowmusic">
 		<div class="musicinfo" v-if="getIsShowMusic">
 			<div class="content-header">
@@ -418,4 +418,4 @@
 	    line-height: 50px;
 	    text-align: center;
 	}
-</style>
+</style> -->
